@@ -8,8 +8,7 @@ React Weather App is a responsive web application that allows users to:
 
 This app uses OpenWeather API for weather data and GeoDB Cities API for city suggestions. It is built with React for the frontend, Node.js for the backend, and MongoDB for data persistence.
 
-![image](https://github.com/user-attachments/assets/fec68b50-9fa0-403e-9cf3-2079bae9bff5)
-
+![image](https://github.com/user-attachments/assets/c81597ee-3a84-4506-962a-5d9dbf2cafef)
 
 ## Available Scripts
 
